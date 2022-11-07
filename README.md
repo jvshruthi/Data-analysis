@@ -1,5 +1,5 @@
 # Data-analysis
-This project is extension version of DATA SCIENEC matches.csv 
+This project is extension version of DATA SCIENCE matches.csv 
 
 This project take keys responsibility for answering the below question using data processing and data visualisation
 
